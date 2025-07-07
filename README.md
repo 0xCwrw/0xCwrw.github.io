@@ -2,6 +2,7 @@
 Github site with pages :) Feel free to reach out.
 ---
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGg9B6MBEADqvIHRteuaB0gnliuS56JkzOjlTSoIp77gP8pM2kQzlbC+d/XC
@@ -54,3 +55,4 @@ UImUiR7hKBB+7Ss9b1noW58S7YlnQ3OVox+cRZWx5XrA1Zm0I1aBN3vHoy+i4aei
 wLPz154/mzCZcQrye8GKyg/1Cmxdx5MOhf/zmNc=
 =X//e
 -----END PGP PUBLIC KEY BLOCK-----
+```
