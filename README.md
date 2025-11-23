@@ -1,33 +1,34 @@
-# 0xCwrw.github.io
+# Cwrw's Page:
+
+### Helpful links :)
+
+- [My Medium blog | Malware analysis and DFIR challenges](https://medium.com/@Cwrw)
+- [ My PowerShell implementation of URLScan.io's API.](https://github.com/0xCwrw/Transaction_F1nd3r)
+
+---
+
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
-It's a really me, yahoo...
-
+Feel free to reach out :)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEtPnmkJ0RVVMAh8mTt8KiAWlo8zEFAmhsUZsACgkQt8KiAWlo
-8zGBgA/9FgEjDp+Jsh46wFo3GyTIxvmuwf5NBG9jwPivM6Y7b/eMiHfTNqE6LqIw
-QJk9dAH3D6VC/1VoRUZMHekec/hkTNZGvJBk0tDDwxFJj1aWSH/CxeGKkJ9V9O+o
-n0FUe4rL9CCur0Etx00uD3/ZHLULB+EoGnL7kiUnmXLFbF+gAiErFtN72hPN20dT
-rBlSgE5/MrPtajqGkCb6/9EdbycPeYqM7/eSls8ZvxjLJWI2tsrDStHtVDcCpgVx
-7x7AxuEw2HpPCt0FSfrv0E3uPTJGaJfnt6CJJeMX877SXhZMYOz49Cu37DVEBBVD
-dk9300xMvm1Eqas0sYA/GQl81kgbLOKokpXsKWFOZfXveYN75GvsT5qOkQgO3tSJ
-k736NuUyF98nxmdiP0r2K64HNda9ZZ+KRF/e5W+A7BHDQo2A5tbjVCPa+1yqiNr8
-Bg6VXvAoSk4/UW2mLhmH9zCftxZJr8x9/6e2BdWhqBIqkB8iwcZ0Eo3YfG6mWuVf
-QDqnrCvVonMBbF6rSKB841fyw6cHzxZCb0MMHr7P+UTTKHHOkHiIxueKKQuLUfLl
-8UxOa+fmzR6LpuwDrSOxLsxrqx/HITSVMlXiA2aNPUJsHEa7Sv90Nx3+CxXnm3Rz
-8Cf77JnhLP/TbiGx312b4MGKP7WKGhEWpJIlX1CHgUfrIsZ/VA8=
-=9LYf
+iQIzBAEBCAAdFiEEtPnmkJ0RVVMAh8mTt8KiAWlo8zEFAmkifXMACgkQt8KiAWlo
+8zHu7RAAoMZkGdZO3QLdq3TM68foEpZB2hShzw6E6SQoYWMUwww/R4lcYfwYlYdf
+YI3ALQzYyk97EXA/t1YWYQ8SgTqR7iEjNfMDbYaSuoBxda3De8lBWzU0UPX63q95
+DFIW//3dj5wZD7Yr+GaDq2Jcy0JW35DDCg6WEa8exq8CucUdx9E0ui8jK7yvKeir
+nU9aDoNCvxoEOgjXoyPnoV3hY3frDmR5lEpWeMnlJLCCjg286dZzdNqTam1Blo+o
+O4F9WjJZwpsd7MBgdabXwoUgX75lxCrJcHdZfaVaWnxpu1Vnqn2dEZM727TGrbgv
+wmJuBhIXSZG89S2BE9l78OtwNL4GiAe2L8Z5jRJnmWTFFEuyKYi2OI4jakDpFYFe
+BOrPy9sKujlo0xr0IQjigLstfQK06nm8WE/uwF/TFZ3GSnWeKb8OeDqES9PUzgH+
+BBii9LWlhHGWkE5e/a5EwV87vX8ci/ByI4i/usxAgAMjegIwsW15NOhz9PEf/x0o
+kjpA6eb8JU9v47rJecNSM1Z2PSmdO0BmEeSu1RvOdGj5F/v5OSd5xGXVLCJ5matU
+YSmYQDOwYku3b7O7wd8iO5rmjqKt/jKl7mfOrwnnJSggO9N3Yl9jhgzz/WImvLuo
+AKcB/4s08S+pFGMDv1AbQ8wgkVcB7QRfe6RZSF5zMbkut4kfvkQ=
+=ldDP
 -----END PGP SIGNATURE-----
 ```
-
----
-
-Feel free to reach out.
-
----
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
