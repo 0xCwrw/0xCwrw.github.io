@@ -2,7 +2,7 @@
 
 ### Helpful links :)
 
-- [My Medium blog | Malware analysis and DFIR challenges](https://medium.com/@Cwrw)
+- [My Medium blog \| Malware analysis and DFIR challenges](https://medium.com/@Cwrw)
 - [ My PowerShell implementation of URLScan.io's API.](https://github.com/0xCwrw/Transaction_F1nd3r)
 
 ---
