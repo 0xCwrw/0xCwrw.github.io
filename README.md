@@ -2,8 +2,9 @@
 
 ### Helpful links :)
 
-- [My Medium blog \| Malware analysis and DFIR challenges](https://medium.com/@Cwrw)
-- [ My PowerShell implementation of URLScan.io's API.](https://github.com/0xCwrw/Transaction_F1nd3r)
+- [My Medium blog \| Malware analysis and DFIR challenges.](https://medium.com/@Cwrw)
+- [My PowerShell implementation of URLScan.io's API.](https://github.com/0xCwrw/Transaction_F1nd3r)
+- [My PowerShell triage script for parsing Script-block logs and UNIX .history and .session files.](https://github.com/0xCwrw/CommandHunter)
 
 ---
 
